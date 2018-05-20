@@ -1,0 +1,19 @@
+{
+  "name": "gettingstarted-flexbox",
+  "version": "1.0.0",
+  "description": "First steps with CSS3 flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfuerlinger/gettingstarted-flexbox.git"
+  },
+  "author": "Josef Fürlinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfuerlinger/gettingstarted-flexbox/issues"
+  },
+  "homepage": "https://github.com/jfuerlinger/gettingstarted-flexbox#readme"
+}
