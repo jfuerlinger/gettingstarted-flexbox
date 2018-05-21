@@ -5,13 +5,13 @@ function component() {
     var element = document.createElement('div');
     var btn = document.createElement('button');
 
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
+    element.innerHTML = _.join(['Hello', 'Joe'], ' ');
 
     btn.innerHTML = 'Click me and chech the console';
     btn.onclick = printMe;
 
     element.appendChild(btn);
-    
+
     return element;
 }
 
